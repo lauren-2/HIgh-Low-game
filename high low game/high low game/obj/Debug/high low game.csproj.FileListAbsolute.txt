@@ -1,0 +1,7 @@
+P:\Digital\VS\18Lauren Kerman\high low game\high low game\bin\Debug\high low game.exe.config
+P:\Digital\VS\18Lauren Kerman\high low game\high low game\bin\Debug\high low game.exe
+P:\Digital\VS\18Lauren Kerman\high low game\high low game\bin\Debug\high low game.pdb
+P:\Digital\VS\18Lauren Kerman\high low game\high low game\obj\Debug\high low game.csprojAssemblyReference.cache
+P:\Digital\VS\18Lauren Kerman\high low game\high low game\obj\Debug\high low game.csproj.CoreCompileInputs.cache
+P:\Digital\VS\18Lauren Kerman\high low game\high low game\obj\Debug\high low game.exe
+P:\Digital\VS\18Lauren Kerman\high low game\high low game\obj\Debug\high low game.pdb
